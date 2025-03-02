@@ -1,7 +1,11 @@
 ## 1.0.0-alpha.8
 
 - Add All The Compatibility
+- Add Ding
+- Add Fast Async World Save
+- Add Let Me Despawn
 - Add ProbeJS
+- Add Smooth Chunk Save
 - Remove useless JourneyMap config
 - Remove Electrodynamics & Nuclear Science
 - Configure Almost Unified to prioritize All The Ores
