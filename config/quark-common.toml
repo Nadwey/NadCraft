@@ -1,0 +1,72 @@
+
+[general]
+	"Enable 'q' Button" = true
+	"'q' Button on the Right" = false
+	"Disable Q Menu Effects" = false
+	"Enable Onboarding" = false
+
+[categories]
+	automation = true
+	building = true
+	management = true
+	tools = true
+	tweaks = true
+	world = true
+	mobs = true
+	client = true
+	experimental = true
+	oddities = true
+
+[automation]
+	"Chains Connect Blocks" = false
+	Chute = false
+	Crafter = false
+	"Dispensers Place Blocks" = false
+	"Ender Watcher" = false
+	"Feeding Trough" = false
+	"Iron Rod" = false
+	"Metal Buttons" = true
+	"Obsidian Plate" = false
+	"Pistons Move Tile Entities" = false
+	"Redstone Randomizer" = false
+
+[building]
+	"Variant Bookshelves" = false
+	"Variant Chests" = false
+	"Variant Furnaces" = false
+	"Variant Ladders" = false
+
+[management]
+	"Automatic Tool Restock" = false
+	"Inventory Sorting" = false
+
+[tweaks]
+	"Automatic Recipe Unlock" = false
+	"Slabs To Blocks" = false
+	"Slimes To Magma Cubes" = false
+
+[world]
+	"New Stone Types" = false
+	"No More Lava Pockets" = false
+
+[mobs]
+	Crabs = false
+	Forgotten = false
+	Foxhound = false
+	Shiba = false
+	Stonelings = false
+	Toretoise = false
+	Wraith = false
+
+[client]
+	"Chest Searching" = false
+	"Greener Grass" = false
+
+[oddities]
+	Backpack = false
+	Crate = false
+	Magnets = false
+	"Matrix Enchanting" = false
+	Pipes = false
+	"Tiny Potato" = false
+	"Totem Of Holding" = false

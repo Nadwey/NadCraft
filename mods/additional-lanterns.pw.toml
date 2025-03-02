@@ -1,0 +1,13 @@
+name = "Additional Lanterns"
+filename = "additionallanterns-1.1.1a-forge-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79e4a7953ef1abfaf5be523d7e646dfd26a493a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5275380
+project-id = 501590

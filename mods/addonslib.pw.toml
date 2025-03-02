@@ -1,0 +1,13 @@
+name = "AddonsLib"
+filename = "addonslib-1.20.1-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a86737ad2da908c5c625c4ad3ffebb242cc1679"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6169399
+project-id = 1090999

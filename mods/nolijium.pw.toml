@@ -1,0 +1,13 @@
+name = "Nolijium"
+filename = "nolijium-0.5.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e14490f16ce02b57c8a2842ef17d395e25816756"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6167834
+project-id = 969602

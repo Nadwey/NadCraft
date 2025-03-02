@@ -1,0 +1,19 @@
+{
+    "scripts": {
+        "prettier": "prettier --write .",
+        "start": "bun src/create.ts"
+    },
+    "dependencies": {
+        "axios": "^1.8.1",
+        "chalk": "^5.4.1",
+        "confbox": "^0.1.8",
+        "glob": "^11.0.1",
+        "ignore": "^6.0.2",
+        "p-limit": "^6.2.0"
+    },
+    "devDependencies": {
+        "@types/bun": "^1.2.4",
+        "@types/node": "^22.13.5",
+        "prettier": "^3.5.2"
+    }
+}

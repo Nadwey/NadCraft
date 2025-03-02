@@ -1,0 +1,13 @@
+name = "👻 Hysteria Shaders"
+filename = "Hysteria-Shader-RemainsOfChaos-Edition-v1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9b073aad4b5fc5eb764f65c75ab02e76f5f39ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5856898
+project-id = 1040578

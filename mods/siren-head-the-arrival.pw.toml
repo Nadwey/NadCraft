@@ -1,0 +1,13 @@
+name = "Siren Head: The Arrival"
+filename = "Siren_head v1.1.4-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4331aa83c7c0a4359da69455566c3812b9532eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5571439
+project-id = 1013669

@@ -1,0 +1,13 @@
+name = "NadCraft"
+author = "Nadwey"
+version = "1.0.0-alpha.8"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a6874cf5b6063225f053e17eb038f8b23c99f6f64de24c35abf3512584940e9"
+
+[versions]
+forge = "47.3.33"
+minecraft = "1.20.1"
