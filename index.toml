@@ -66,7 +66,7 @@ hash = "8f712088a2a9059b41d761541de30a65dde10ef5fd154f1ec9cf74d3df79bfce"
 
 [[files]]
 file = "kubejs/startup_scripts/remove-ores.js"
-hash = "0b76343bf754fc7ee24a0081f8fe40b6795851ae88bde909bcd83c9fd099bdc8"
+hash = "25c42aa0f46aa9b3bb848db1599898eb1a10df5dd22e517de8c685ce00a3b0dd"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
