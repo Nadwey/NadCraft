@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
-hash = "e2396d07e1058482e0792e8c7aa5c90cf54e198c8c4bf64293ec6b5abe5e91a2"
+hash = "ce8c3236059c4405b9bb4b7aafb7a0016fb4a0f48c2a33e420d589d215c520aa"
 metafile = true
 
 [[files]]
