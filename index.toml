@@ -26,11 +26,11 @@ hash = "d3a3ce0a005e6abfb26cbfd912c2524194536b9e52fe2fa0bcf385990fb62d57"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "18e4808497fb90ded171eba6ec6862d7e730593b82b16cfbc857d00f6c4096c1"
+hash = "55d60916010dd6b7de3207ab8a829e9b2df453e88b802ab5c0165ff613f6cb7e"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "128e8a52d11833c8cec3a73d21b9935c5a8e5820532f7f59180fdd22b18e94da"
+hash = "6bc18ddbe225deac31de1f0ed9648fe7055cfcfdce6cbca7fe949f1f41989d99"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -51,6 +51,10 @@ hash = "3821d5809965f7ff6b8be6ba102035ed976e796e59f5b6953c8c3dbd91da1587"
 [[files]]
 file = "config/quark-common.toml"
 hash = "0490d12514a5e656d4754293bd85d98fde04c55e89fbbd6763eda466f760b915"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
 
 [[files]]
 file = "config/thermal-common.toml"
