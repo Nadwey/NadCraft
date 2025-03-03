@@ -9,7 +9,7 @@
 - Remove useless JourneyMap config
 - Remove Electrodynamics & Nuclear Science
 - Configure Almost Unified to prioritize All The Ores
-- Disable ores that are in All The Ores from Mekanism, Thermal Series
+- Disable ores from other mods that are already in All The Ores
 - Disable some Quark options
 - Unbind annoying keybinds (most notably from Quark)
 - Enable entities dynamic light source
