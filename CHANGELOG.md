@@ -1,3 +1,8 @@
+## 1.0.0-alpha.9
+
+- Fix unknown key error when starting the game
+- Mark Falling Leaves as client-only
+
 ## 1.0.0-alpha.8
 
 - Add All The Compatibility
