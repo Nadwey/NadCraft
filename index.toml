@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "7889b2dbb32bcc7a9e25879b0eec819ac7bc2a38de785b82fb91efc426216a48"
+hash = "c752b99519df5a2e6219b0245ecddd6c886fa2ef75f5f637cd13c83e5959ebff"
 
 [[files]]
 file = "TODO.md"
@@ -34,11 +34,19 @@ hash = "6bc18ddbe225deac31de1f0ed9648fe7055cfcfdce6cbca7fe949f1f41989d99"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "739539b4146abfddb28d18027abc040e62af3634552c3c8092d021545f0c08fe"
+hash = "a4a107e191db4fc58b2ba47943ecc3bd32ceb3c66a9b3bb494d536caceeb63a7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mekanism.snbt"
+hash = "8ce57910a4e6646f8bce3e40c461993a9fcd18cc283dace25da3c488da22694a"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/xycraft.snbt"
+hash = "0ed77c878c50094fb24fdcc499ad48e18ed054e82f0cb28251d4ac06f001399c"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "f42f211562e7e6c8de6c8f903f5efe68571f4b948af3c05329bbf9089da4ef7b"
+hash = "8e8a6518c68283eb6666273fd0ea3f62b1d3eacad3d3a58db62dc1edcac34aab"
 
 [[files]]
 file = "config/man_config.toml"

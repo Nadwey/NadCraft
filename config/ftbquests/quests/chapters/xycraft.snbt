@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "xycraft"
+	group: "1D7A1BCBAAFEFC5D"
+	icon: "xycraft_world:xychorium_gem_blue"
+	id: "05DDCD22E460848B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "XyCraft"
+}

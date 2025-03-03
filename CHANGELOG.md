@@ -13,4 +13,5 @@
 - Disable some Quark options
 - Unbind annoying keybinds (most notably from Quark)
 - Enable entities dynamic light source
+- Start adding quests
 - Update mods (Create 6 is on hold)
