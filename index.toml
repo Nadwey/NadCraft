@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "540606572fc092001f86f98725145b529dcc1db2a6d2ac5c7a02590dbd601c6f"
+hash = "ada3535b9cfbf5c867a75247395710768892bc0741d1ae4277256d6a34e416b4"
 
 [[files]]
 file = "TODO.md"
@@ -66,7 +66,7 @@ hash = "8f712088a2a9059b41d761541de30a65dde10ef5fd154f1ec9cf74d3df79bfce"
 
 [[files]]
 file = "kubejs/startup_scripts/remove-ores.js"
-hash = "25c42aa0f46aa9b3bb848db1599898eb1a10df5dd22e517de8c685ce00a3b0dd"
+hash = "17427d70ffb47c526121b3bc0dfacf2a89308e934b33f7358f11d7a84680b127"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"

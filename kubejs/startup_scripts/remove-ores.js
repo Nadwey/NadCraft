@@ -14,8 +14,12 @@ WorldgenEvents.remove((event) => {
       "create:deepslate_zinc_ore",
 
       // Railcraft
+      "railcraft:lead_ore",
+      "railcraft:deepslate_lead_ore",
       "railcraft:nickel_ore",
       "railcraft:deepslate_nickel_ore",
+      "railcraft:silver_ore",
+      "railcraft:deepslate_silver_ore",
       "railcraft:tin_ore",
       "railcraft:deepslate_tin_ore",
       "railcraft:zinc_ore",
