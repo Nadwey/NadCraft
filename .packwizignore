@@ -1,3 +1,6 @@
 .github/*
 serverpack/
+
 README.md
+CHANGELOG.md
+TODO.md

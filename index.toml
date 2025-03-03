@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "c752b99519df5a2e6219b0245ecddd6c886fa2ef75f5f637cd13c83e5959ebff"
-
-[[files]]
-file = "TODO.md"
-hash = "6d1e91763d281d2ee0a4c1432b9bd5832143fd1f2143b570f8a93f08c1de22fb"
-
-[[files]]
 file = "config/Mekanism/world.toml"
 hash = "89ad840e1bc9c1460f3aec7542c099377936379bc80e30b7784529c9fd4df276"
 
