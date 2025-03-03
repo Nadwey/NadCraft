@@ -11,4 +11,6 @@
 - Configure Almost Unified to prioritize All The Ores
 - Disable ores that are in All The Ores from Mekanism, Thermal Series
 - Disable some Quark options
+- Unbind annoying keybinds (most notably from Quark)
+- Enable entities dynamic light source
 - Update mods (Create 6 is on hold)
