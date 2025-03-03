@@ -202,7 +202,7 @@ key.journeymap.zoom_out:key.keyboard.minus:NONE
 key.journeymap.minimap_type:key.keyboard.left.bracket:NONE
 key.journeymap.minimap_preset:key.keyboard.backslash:NONE
 key.journeymap.create_waypoint:key.keyboard.b:NONE
-key.journeymap.toggle_waypoints:unknown:NONE
+key.journeymap.toggle_waypoints:key.keyboard.unknown:NONE
 key.journeymap.fullscreen_create_waypoint:key.keyboard.b:NONE
 key.journeymap.fullscreen_chat_position:key.keyboard.c:NONE
 key.journeymap.map_toggle_alt:key.keyboard.j:NONE
