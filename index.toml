@@ -5,10 +5,6 @@ file = "config/Mekanism/world.toml"
 hash = "89ad840e1bc9c1460f3aec7542c099377936379bc80e30b7784529c9fd4df276"
 
 [[files]]
-file = "config/SirenHead.toml"
-hash = "7f632c4eeb41be1d17c5135c777fd36244b9aa118f2644f9fa25932c048d5965"
-
-[[files]]
 file = "config/almostunified/unify.json"
 hash = "ac4b090ec1e306f6673cb33f8df47a47e43c42e36c0542d1d2b3bc616f3ccc2d"
 
@@ -39,10 +35,6 @@ hash = "0ed77c878c50094fb24fdcc499ad48e18ed054e82f0cb28251d4ac06f001399c"
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "8e8a6518c68283eb6666273fd0ea3f62b1d3eacad3d3a58db62dc1edcac34aab"
-
-[[files]]
-file = "config/man_config.toml"
-hash = "dfc2985499d0206ddbed1285371b530ee18f461c57ce73b13756109067d33e69"
 
 [[files]]
 file = "config/oculus.properties"
@@ -648,6 +640,11 @@ hash = "a2c33376068c7b4e18966fe832c981c1376a443203ee621a3c52d25046df40f8"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -735,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "6439c6f409308c4a89a12708b54cef41aa5382dc78e6f352b3e8005e96a21a8e"
+metafile = true
+
+[[files]]
+file = "mods/in-your-world.pw.toml"
+hash = "1837bfffa45d99b5b6eea877a1421f27bf7ef2b669cbdc771d85e1abf666f357"
 metafile = true
 
 [[files]]
@@ -1288,11 +1290,6 @@ hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
 
 [[files]]
-file = "mods/siren-head-the-arrival.pw.toml"
-hash = "82d41608982bf0ee7b99bdb14e937f6f09b56a4d9aa766e1992fd0c1e0291bbc"
-metafile = true
-
-[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "0f6a8577e4496f31e0b539798c8d90a7e312110897ef523043f46828680a9ebb"
 metafile = true
@@ -1410,11 +1407,6 @@ metafile = true
 [[files]]
 file = "mods/the-knocker.pw.toml"
 hash = "b39f35693602d80a0909485dee4a3bacecd2861bd80d7949275dcf597cc41e67"
-metafile = true
-
-[[files]]
-file = "mods/the-man-from-the-fog.pw.toml"
-hash = "eec9ff79b99892b38e7589a28af9c9ea428e4ac9d9f62cf82df504dfad4fd97d"
 metafile = true
 
 [[files]]

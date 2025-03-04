@@ -1,3 +1,10 @@
+## 1.0.0-alpha.10
+
+- Remove Siren Head: The Arrival
+- Remove Man From The Fog
+- Add In Your World
+- Add From The Fog
+
 ## 1.0.0-alpha.9
 
 - Fix unknown key error when starting the game
