@@ -3,7 +3,7 @@
 	#Should siren head break leaves | reduces spawn frequency in dense forested areas
 	"Break leaves" = true
 	#Should Siren Head cause some destruction while doing melee attacks(won't destroy chests)
-	"Destroy Blocks with melee" = true
+	"Destroy Blocks with melee" = false
 	#Minimum time in ticks until siren head gets 'bored' when wandering around
 	"Min waiting time" = 3000.0
 	#Maximum time in ticks until siren head gets 'bored' when wandering around

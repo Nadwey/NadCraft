@@ -6,7 +6,7 @@ hash = "89ad840e1bc9c1460f3aec7542c099377936379bc80e30b7784529c9fd4df276"
 
 [[files]]
 file = "config/SirenHead.toml"
-hash = "baf0e88b7b215e55907e8e8daf825c9ac6ad223edfec3f45c781d2945be2cf84"
+hash = "7f632c4eeb41be1d17c5135c777fd36244b9aa118f2644f9fa25932c048d5965"
 
 [[files]]
 file = "config/almostunified/unify.json"
