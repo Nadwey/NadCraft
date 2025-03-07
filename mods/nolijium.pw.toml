@@ -1,13 +1,13 @@
 name = "Nolijium"
-filename = "nolijium-0.5.5.jar"
+filename = "nolijium-0.5.6.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e14490f16ce02b57c8a2842ef17d395e25816756"
+hash = "7074fda15f70440eb1e30f74a7dc70feadd49592"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6167834
+file-id = 6264798
 project-id = 969602

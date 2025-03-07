@@ -2,6 +2,8 @@
 
 - Remove Siren Head: The Arrival
 - Remove Man From The Fog
+- Remove Create: Steam 'n' Rails (temporarily)
+- Remove Rechiseled Create (temporarily)
 - Add In Your World
 - Add From The Fog
 

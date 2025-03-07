@@ -1,13 +1,13 @@
 name = "Create Ore Excavation"
-filename = "createoreexcavation-fabric-1.20-1.5.4.jar"
+filename = "createoreexcavation-1.20-1.6.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "846e0b60ff6c864d2cde8957e164eb413eebdb83"
+hash = "4fbead125af175081f6b478fba25a74cf91462f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5848321
+file-id = 6272216
 project-id = 649832
