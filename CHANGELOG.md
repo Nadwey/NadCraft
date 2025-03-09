@@ -4,6 +4,7 @@
 - Mark AmbientSounds as client-only
 - Mark Fast IP ping as client-only
 - Mark Fusion as client-only
+- Mark My Server Is Compatible as client-only
 
 ## 1.0.0-alpha.11
 

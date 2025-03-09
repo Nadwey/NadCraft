@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
-hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
 
 [[files]]
