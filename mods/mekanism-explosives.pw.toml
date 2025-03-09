@@ -1,0 +1,13 @@
+name = "Mekanism Explosives"
+filename = "MekanismExplosives-1.20.1-0.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d85b012a092743bf11b10a2de0e1ef571fb59e34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4823330
+project-id = 927162

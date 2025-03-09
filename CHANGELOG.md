@@ -1,3 +1,22 @@
+## 1.0.0-alpha.11
+
+- Add Create: The Factory Must Grow
+- Add Mekanism: Explosives
+- Add Mekanism: Weapons
+- Add More Red
+- Add WITS (What Is This Structure?)
+- Remove Blue Skies
+- Remove MineColonies
+- Remove More Cave Sounds (wasn't even applied)
+- Remove Multi-Piston
+- Remove Powah!
+- Remove The Midnight
+- Remove The Undergarden
+- Remove Towers of the Wild Modded
+- Remove TownTallk
+- Mark ProbeJS as client-only
+- Update mods
+
 ## 1.0.0-alpha.10
 
 - Remove Siren Head: The Arrival

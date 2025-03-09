@@ -13,6 +13,13 @@ WorldgenEvents.remove((event) => {
       "create:zinc_ore",
       "create:deepslate_zinc_ore",
 
+      // Create: The Factory Must Grow
+      // There's also Mekanism's Lithium, but it doesn't fit Create.
+      "tfmg:lead_ore",
+      "tfmg:deepslate_lead_ore",
+      "tfmg:nickel_ore",
+      "tfmg:deepslate_nickel_ore",
+
       // Railcraft
       "railcraft:lead_ore",
       "railcraft:deepslate_lead_ore",
