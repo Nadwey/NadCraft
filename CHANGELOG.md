@@ -1,3 +1,8 @@
+## 1.0.0-alpha.12
+
+- Remove Stylecolonies
+- Mark AmbientSounds as client-only
+
 ## 1.0.0-alpha.11
 
 - Add Create: The Factory Must Grow
