@@ -2,6 +2,7 @@
 
 - Remove Stylecolonies
 - Mark AmbientSounds as client-only
+- Mark Fast IP ping as client-only
 
 ## 1.0.0-alpha.11
 
