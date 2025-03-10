@@ -1,3 +1,9 @@
+## 1.0.0-alpha.13
+
+- Add Chisel Reborn
+- Add Factory Blocks
+- Add Luminax
+
 ## 1.0.0-alpha.12
 
 - Add Click Machine

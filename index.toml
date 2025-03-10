@@ -279,6 +279,11 @@ hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "4fd14b860b891ddb3b3aa8d8be3482da806ddd26c3fd37675c6b7be1f3a23e8e"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "68d1e3bd2c954c44e924f7b674222f387f6419969ccc469e0a891af98b2eaf39"
 metafile = true
@@ -434,6 +439,11 @@ hash = "d8fde87d322c7d8e841658090d41c33120c72b4e6724af94a9fd3cc41603234c"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "c5b561e87ccb02a7d4cff5e56b228542c343800066dd0002aa5b5a72ad564718"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "7d227dfe10d6dca7cfdafdd64f8208f2f7b779ee674d79976d56d4ae5bdd93b0"
 metafile = true
@@ -566,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "28ec25b40a96c1ac5cf708abaa4db346d88269a8a34c0085e76173973b3ec2b8"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "75aa30ef36dde7927544464166076277e1990d7a5ea15309b6280440e14e5225"
 metafile = true
 
 [[files]]
@@ -896,6 +911,11 @@ metafile = true
 [[files]]
 file = "mods/lucent.pw.toml"
 hash = "2ca738aa0f011b34d0018a3860aab82d3e86d05f64ee74e22eafcebe1941e1af"
+metafile = true
+
+[[files]]
+file = "mods/luminax.pw.toml"
+hash = "bf09e4d083b3ce9771948d97119863276cf4788b672d88ca69d295a7a2b647e1"
 metafile = true
 
 [[files]]
