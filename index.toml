@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "36b5db9a47441934c9b271ae3a1c7b06145bcdb84785bc4ae85dbefe44749e32"
+hash = "c325aa8388d7b22f9c574e7e1b89d786e49da696f12c309f2545fa235a96321d"
 metafile = true
 
 [[files]]
@@ -1465,7 +1465,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
-hash = "03f31d6f2b3e66d6b26ccb7a874b264c250815e3741b85b4af813f0e9b0f0ffb"
+hash = "a40fa2bdcafe9df77f55c8e0b9aa6209bd4700a68fa7c36368970a3872df16c1"
 metafile = true
 
 [[files]]
