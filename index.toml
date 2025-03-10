@@ -61,6 +61,10 @@ file = "kubejs/config/common.properties"
 hash = "8f712088a2a9059b41d761541de30a65dde10ef5fd154f1ec9cf74d3df79bfce"
 
 [[files]]
+file = "kubejs/server_scripts/mods/click-machine/recipes.js"
+hash = "14b0b54ce9b083241458104b925de6dbb63bf2c8eef79476d336816db8dbfe0b"
+
+[[files]]
 file = "kubejs/startup_scripts/remove-ores.js"
 hash = "63dabefde18dd25b17506aafa83a1fc78319f5359fbd9936bed780ddaabe644b"
 
@@ -287,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "47fb31c0dd8d57b949af33591d811bad064e29599d5753ea8a6011e0e1498d0c"
+metafile = true
+
+[[files]]
+file = "mods/click-machine.pw.toml"
+hash = "de1defd6ec01efe8c257625178d9d66c762ced342038cb7640159449f703f480"
 metafile = true
 
 [[files]]
@@ -1012,11 +1021,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "59c83aff76fec2f34cf0ddd59dc926b6c6a3baaed67764b9511bc77b52427156"
-metafile = true
-
-[[files]]
-file = "mods/modular-routers.pw.toml"
-hash = "6bcf7a39bad33980cfd720cc78b1e2fe703f7cf0635c00a59948a561c66bf2e0"
 metafile = true
 
 [[files]]
