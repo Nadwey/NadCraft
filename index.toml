@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "d8ef598cca5fdae80c9a963d3a4895dff04ea42d391604fefaf7026793bb5c3f"
+hash = "d2543431d01127b5d189cf5c419ca75673a38f58d8b8c103a9766354c0361a0a"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "fbfa9c267f94902c78c7528c1c2fd3110ae62db36bd03d6be4b12c0fc4e0002d"
+hash = "84ee30e107ff98ceb7b76e064b4b5491275c8a42788d9125f50f3015ef64f84f"
 metafile = true
 
 [[files]]
@@ -1431,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal_extra.pw.toml"
-hash = "1a5f996e4e2d520504a62c54e66e1d5cd953cda0d61c904f2f65025cfe2f5d27"
+hash = "1f1d3c0628b31059eb59f72fc176288300460a6d962bd0ee8b8f6b7a1bb953a9"
 metafile = true
 
 [[files]]
