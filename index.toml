@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "533b565a113d1f694a34ffab6ebb5a150fbf5ca611abf6fa99e0ab6d4a31be00"
+hash = "51b232141b7f783bfc526860a10e520c9f8849fc97cb37bb7b731c187b95a05d"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-terminals.pw.toml"
-hash = "d37feb38986856ba6e6bbd47fc38a88bc550a18826f92561dc2d6aa8c4cf8fa1"
+hash = "a79f61019fb184d371145e73ac400c7a4813fc230884257b8596a938e2bfe656"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-zoom.pw.toml"
-hash = "87139f6e32088004ed961a10bf2206da8548edc2acf34039dbcf20a070599f53"
+hash = "1b00016b104368daab12a28d92088fd95c5c33a1ac991f0072ca8870ae89983f"
 metafile = true
 
 [[files]]
@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
