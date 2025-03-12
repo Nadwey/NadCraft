@@ -3,6 +3,15 @@
 - Add Chisel Reborn
 - Add Factory Blocks
 - Add Luminax
+- Remove redundant Iris/Oculus & GeckoLib Compat
+- Mark Model Gap Fix as client-only
+- Mark Connected Glass as client-only
+- Mark Dark Mode Everywhere as client-only
+- Mark Enchantment Descriptions as client-only
+- Mark fix GPU memory leak as client-only
+- Mark ImmediatelyFast as client-only
+- Mark Presence Footsteps as client-only
+- Mark Mouse Tweaks as client-only
 
 ## 1.0.0-alpha.12
 
