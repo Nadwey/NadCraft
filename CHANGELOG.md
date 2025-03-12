@@ -3,7 +3,8 @@
 - Add Chisel Reborn
 - Add Factory Blocks
 - Add Luminax
-- Remove redundant Iris/Oculus & GeckoLib Compat
+- Remove Iris/Oculus & GeckoLib Compat
+- Remove Structurize
 - Mark Model Gap Fix as client-only
 - Mark Connected Glass as client-only
 - Mark Dark Mode Everywhere as client-only
