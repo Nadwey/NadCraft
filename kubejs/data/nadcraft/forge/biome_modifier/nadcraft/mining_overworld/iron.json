@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_overworld",
+  "features": [
+    "minecraft:ore_iron_small",
+    "minecraft:ore_iron_middle",
+    "minecraft:ore_iron_upper"
+  ],
+  "step": "underground_ores"
+}

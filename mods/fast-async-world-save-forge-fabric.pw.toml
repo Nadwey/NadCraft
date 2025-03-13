@@ -1,6 +1,6 @@
 name = "Fast Async World Save[Forge/Fabric]"
 filename = "fastasyncworldsave-1.20.1-2.3.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

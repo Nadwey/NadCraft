@@ -1,0 +1,21 @@
+{
+  "type": "nadcraft:mining_end",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "nadcraft:mining_end",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:bedrock"
+        },
+        {
+          "height": 127,
+          "block": "minecraft:end_stone"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "nadcraft:mining_nether",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "nadcraft:mining_nether",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "height": 1,
+          "block": "minecraft:bedrock"
+        },
+        {
+          "height": 127,
+          "block": "minecraft:netherrack"
+        }
+      ]
+    }
+  }
+}

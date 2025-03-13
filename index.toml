@@ -37,6 +37,10 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "8e8a6518c68283eb6666273fd0ea3f62b1d3eacad3d3a58db62dc1edcac34aab"
 
 [[files]]
+file = "config/gtceu.yaml"
+hash = "5b80d699077b3e65ff648c358c9e1dd8d742c3abd4a91a92313c13bbc30e1381"
+
+[[files]]
 file = "config/oculus.properties"
 hash = "3821d5809965f7ff6b8be6ba102035ed976e796e59f5b6953c8c3dbd91da1587"
 
@@ -61,8 +65,60 @@ file = "kubejs/config/common.properties"
 hash = "8f712088a2a9059b41d761541de30a65dde10ef5fd154f1ec9cf74d3df79bfce"
 
 [[files]]
+file = "kubejs/data/nadcraft/dimension/mining_end.json"
+hash = "d5decedc58e78483cdc8448b6ae3495cfe857cd1c9960e02a97f642a8a501a78"
+
+[[files]]
+file = "kubejs/data/nadcraft/dimension/mining_nether.json"
+hash = "15049b4ed394be11fc6af73f2ab4b606e7fc90c0b637d0a003e0aea1abaf113a"
+
+[[files]]
+file = "kubejs/data/nadcraft/dimension/mining_overworld.json"
+hash = "f86ba33f6a906016e5c160cf2f281bd71a10e8264d23ba97e32b9d5f55897524"
+
+[[files]]
+file = "kubejs/data/nadcraft/dimension_type/mining_end.json"
+hash = "a8cf5d8f5b2868ed99af7be57e537f7de09484dad25c43542194f045a334cd3e"
+
+[[files]]
+file = "kubejs/data/nadcraft/dimension_type/mining_nether.json"
+hash = "115eba2d5a0bc9eae57fbb573462bf7a36fd4552519b4511158c6a77879c7dd7"
+
+[[files]]
+file = "kubejs/data/nadcraft/dimension_type/mining_overworld.json"
+hash = "6ce7a9be7838fa2f26afe27087502505a3a74d7100c4434e715a43d236612414"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/iron.json"
+hash = "884dd780229a124004b0ba5dcc6a733961452318d011318ef3c6014b5b66aaa3"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/prosperity_ore.json"
+hash = "f4c5c96db4e3cf9242a50c8fc3c0183d1fcd966e3e401184820a8d5071640bd3"
+
+[[files]]
+file = "kubejs/data/nadcraft/worldgen/biome/mining_end.json"
+hash = "e57c37a2fb9b6e0062891b0309121aef8c34e2acbc36ded1ab4832f2b33d64a2"
+
+[[files]]
+file = "kubejs/data/nadcraft/worldgen/biome/mining_nether.json"
+hash = "98cb31e578962e003cc061f9dd7f4bdc203745eb3e4384e2a985597c17345877"
+
+[[files]]
+file = "kubejs/data/nadcraft/worldgen/biome/mining_overworld.json"
+hash = "6991c5a8a8a0c188553c028db42ff3d45712a864f2d545ec44e45d2baa44bd6f"
+
+[[files]]
 file = "kubejs/server_scripts/mods/click-machine/recipes.js"
 hash = "14b0b54ce9b083241458104b925de6dbb63bf2c8eef79476d336816db8dbfe0b"
+
+[[files]]
+file = "kubejs/server_scripts/mods/gtceu-modern/oregen.js"
+hash = "49c8f219889141e90e9483729aa5ac9d39aed311f8bc8fd427e9c1694f37ac1b"
+
+[[files]]
+file = "kubejs/startup_scripts/mods/gtceu-modern/mining-dimension.js"
+hash = "09c0038731cd163a160af1964042425ad8d65b1f5cb35abeb49c43a827955e56"
 
 [[files]]
 file = "kubejs/startup_scripts/remove-ores.js"
@@ -595,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
-hash = "60474f66239ffcd272d8944a61de7d5845c97fd19038f1fe36aa00f52d258732"
+hash = "e792854d50dca30109a7ac86e2b3a8353818abf11d102ad3c29f6003a05cf6dc"
 metafile = true
 
 [[files]]
@@ -655,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "2d24a516b04017a4d25c330932d2dcb912d9c120352d2f3f205284e8b1b9ea13"
+hash = "90b1dbb488e42623788abdaa6afe9808aa811a57fac8f76f3153092e06152836"
 metafile = true
 
 [[files]]
@@ -721,6 +777,11 @@ metafile = true
 [[files]]
 file = "mods/glodium.pw.toml"
 hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
+metafile = true
+
+[[files]]
+file = "mods/gregtechceu-modern.pw.toml"
+hash = "a37e11b1b1a3aed1dacb97fabf0f41c4d35951dd5a2a16bfebc14e1d4dc5fbe7"
 metafile = true
 
 [[files]]
@@ -880,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "cfc394cb683cf89de361b91fc5b5825a4bc9ae94fbf58a4595b2f9231b29550e"
+hash = "f1aa1a1b3746f0bad932aa0e3a95ee987b96efadf1107431c735923f3ae00890"
 metafile = true
 
 [[files]]
@@ -1105,7 +1166,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "fa955a926a97312c21b5dc4f833cf954c2a2f5f8c8df996e7efdf39512ad53ea"
+hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
@@ -1150,7 +1211,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "a0172a031c5c7df5bda0c85c090af98180721eecf62392869592482cb363859b"
+hash = "eb1adcd56cffed94feba4321a7cb5f774982c7342ede18c46b833fcfb2897d4b"
 metafile = true
 
 [[files]]
@@ -1310,7 +1371,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "800d00fb2e286a71a4d43624e21ba8c7c452acd8cdba88d4fee1c94a25332fa0"
+hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
@@ -1386,11 +1447,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
-metafile = true
-
-[[files]]
-file = "mods/the-afterdark.pw.toml"
-hash = "4a5da214ae94183c91229ec892b761bf0f45fb5f41f0d281c41179f36acfe166"
 metafile = true
 
 [[files]]
@@ -1500,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
-hash = "b2fafec3bdfe31ef8fe1c3fe0b2d1363d7833f7fe753f0422699adbf8b792b71"
+hash = "9bacaa634677898501289d720a0054de5c8e224725fd03004492318638005ae9"
 metafile = true
 
 [[files]]
