@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_overworld",
+  "features": [
+    "minecraft:ore_lapis",
+    "minecraft:ore_lapis_buried"
+  ],
+  "step": "underground_ores"
+}

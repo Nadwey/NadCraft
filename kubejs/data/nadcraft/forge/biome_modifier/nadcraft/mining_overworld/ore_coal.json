@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_overworld",
+  "features": [
+    "minecraft:ore_coal_lower",
+    "minecraft:ore_coal_upper"
+  ],
+  "step": "underground_ores"
+}

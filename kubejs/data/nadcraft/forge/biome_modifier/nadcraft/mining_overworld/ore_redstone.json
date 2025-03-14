@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_overworld",
+  "features": [
+    "minecraft:ore_redstone",
+    "minecraft:ore_redstone_lower"
+  ],
+  "step": "underground_ores"
+}

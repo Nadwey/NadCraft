@@ -89,12 +89,40 @@ file = "kubejs/data/nadcraft/dimension_type/mining_overworld.json"
 hash = "6ce7a9be7838fa2f26afe27087502505a3a74d7100c4434e715a43d236612414"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/iron.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_coal.json"
+hash = "f7f6050084e826176cba13d7c8bedda78e2d4e688278be56e5c193510dc87875"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_copper.json"
+hash = "fc1d8464f6f173f7439b9fe79d987648477f58a102e30c2d8088b8218bf5d2bb"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_diamond.json"
+hash = "67bac219f0ce394b571a4350f554a71fa6a63fafd2f13a4e3e4edcfe4b48529c"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_emerald.json"
+hash = "b856a917af451afec587c6ca7fda3edcfbffb9817eafdf4ba60045e7c871e01a"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_gold.json"
+hash = "3416fc1c265fd6ce1b577f3e3fa0710fa32c8bb655c7f184f4ca0727850565d6"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_iron.json"
 hash = "884dd780229a124004b0ba5dcc6a733961452318d011318ef3c6014b5b66aaa3"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/prosperity_ore.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_lapis.json"
+hash = "75918347955271864857aa165692854e1d570222d23e371ccff45793fea79a49"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_prosperity.json"
 hash = "f4c5c96db4e3cf9242a50c8fc3c0183d1fcd966e3e401184820a8d5071640bd3"
+
+[[files]]
+file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mining_overworld/ore_redstone.json"
+hash = "6648748895952f2ed411885969e631cddbcdb2b96158499e064117bdbb6835a2"
 
 [[files]]
 file = "kubejs/data/nadcraft/worldgen/biome/mining_end.json"
