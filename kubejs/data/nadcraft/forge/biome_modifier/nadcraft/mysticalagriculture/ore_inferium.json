@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_overworld",
+  "features": "mysticalagriculture:inferium_ore",
+  "step": "underground_ores"
+}

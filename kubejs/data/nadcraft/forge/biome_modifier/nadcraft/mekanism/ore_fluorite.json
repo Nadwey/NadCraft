@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_overworld",
+  "features": ["mekanism:ore_fluorite_normal", "mekanism:ore_fluorite_buried"],
+  "step": "underground_ores"
+}

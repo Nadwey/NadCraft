@@ -5,6 +5,8 @@
 - Add Luminax
 - Add GregTech CEu: Modern
 - Add mining dimensions
+- Add Particular ✨ Reforged
+- Add Cyanide
 - Remove Iris/Oculus & GeckoLib Compat
 - Remove Structurize
 - Remove The Afterdark

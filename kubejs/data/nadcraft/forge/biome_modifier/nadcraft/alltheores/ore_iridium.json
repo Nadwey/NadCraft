@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_overworld",
+  "features": "alltheores:ore_iridium_placed",
+  "step": "underground_ores"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nadcraft:mining_nether",
+  "features": "mysticalagradditions:nether_inferium_ore",
+  "step": "underground_ores"
+}
