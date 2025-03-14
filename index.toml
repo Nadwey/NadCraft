@@ -57,12 +57,24 @@ file = "config/thermal-common.toml"
 hash = "c18e41117731bae180cdf2662685ccd1839b9b65d5bfa8a699176bcfa17c9d4a"
 
 [[files]]
+file = "defaultconfigs/ftbessentials-server.snbt"
+hash = "50d524e92f9b81ea145ddb92466dce7807a558ce182901f6b609dabefb3985df"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
+hash = "8fbbc405d6e143489a37ce86050f3c2100b286552da2c63b018df38f998fa345"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "6cb8609404d0b9685314b1841735d466e96502e4e18f11cc3375f6e46f69415e"
 
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "8f712088a2a9059b41d761541de30a65dde10ef5fd154f1ec9cf74d3df79bfce"
+
+[[files]]
+file = "kubejs/data/gtceu/forge/biome_modifier/raw_oil_sprout.json"
+hash = "20a769f1ee49f2b890a3c4b3a393bed3e4b8759463036eef85c2b4ea4d7f9264"
 
 [[files]]
 file = "kubejs/data/nadcraft/dimension/mining_end.json"
@@ -89,115 +101,115 @@ file = "kubejs/data/nadcraft/dimension_type/mining_overworld.json"
 hash = "6ce7a9be7838fa2f26afe27087502505a3a74d7100c4434e715a43d236612414"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_aluminum.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_aluminum.json"
 hash = "7e6113213965304a8933eb15314948cd90474590dacc1ced56d8f0c006e9d613"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_lead.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_lead.json"
 hash = "e0ae949f75df54c9ec551cd289a87a0a42e40ef70f51619a43d05f4040166d2b"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_nickel.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_nickel.json"
 hash = "c6c7c62e7379adbce52d9f5f2d852252f657c3cf4e2019f1064fa8a5f3e2ec25"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_osmium.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_osmium.json"
 hash = "ec176e4b030eedac807a0d8de7d6679d7ef2306a9109e01437c1c4e06f97fb63"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_platinum.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_platinum.json"
 hash = "d3a3adb5e13ebbf3362067f102dde0678cba4ff9f5391a97aab68329b52558d2"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_silver.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_silver.json"
 hash = "219cfa33647ce12fd314aae0d6f0b6e33e0d3c575f346b6fe6c77a96563212d4"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_tin.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_tin.json"
 hash = "7c1e6090ed20c84191a41379c8e01d726b2168b7cbd089ccfc3161cb85ea9221"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_uranium.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_uranium.json"
 hash = "3a12da9fb53e3d68e56e4ba9984682c2eadf93309687295d7752b081dd430b4d"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_common_zinc.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_common_zinc.json"
 hash = "82450da925bf45680c45a6e9944e7860a51b19502e292287a6aabee8ecc38f92"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_iridium.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_iridium.json"
 hash = "932a956062fb56b48ef0a6c3ebca50704f9337c13208f50c947cdd117669ac43"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_peridot.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_peridot.json"
 hash = "4300adad07fd38d57f8c3fcd8d868e637cf2b1542316a57f994232669554561a"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_ruby.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_ruby.json"
 hash = "2b5aabcdaa83999cc6a2a6898c692c9a9fbbcd672c8123d375e9bf1251bdee24"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/alltheores/ore_sapphire.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/alltheores/ore_sapphire.json"
 hash = "fd31655a9f7253152344def1affe2f99886151a5c38d0748ec483a8911cd400f"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mekanism/ore_fluorite.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/mekanism/ore_fluorite.json"
 hash = "c08faa08b6b0ce1d6b5b1af1759243d17097ada7fe714319f2c77d2c0a8e9719"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_coal.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_coal.json"
 hash = "f7f6050084e826176cba13d7c8bedda78e2d4e688278be56e5c193510dc87875"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_copper.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_copper.json"
 hash = "fc1d8464f6f173f7439b9fe79d987648477f58a102e30c2d8088b8218bf5d2bb"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_diamond.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_diamond.json"
 hash = "67bac219f0ce394b571a4350f554a71fa6a63fafd2f13a4e3e4edcfe4b48529c"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_emerald.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_emerald.json"
 hash = "b856a917af451afec587c6ca7fda3edcfbffb9817eafdf4ba60045e7c871e01a"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_gold.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_gold.json"
 hash = "3416fc1c265fd6ce1b577f3e3fa0710fa32c8bb655c7f184f4ca0727850565d6"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_iron.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_iron.json"
 hash = "884dd780229a124004b0ba5dcc6a733961452318d011318ef3c6014b5b66aaa3"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_lapis.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_lapis.json"
 hash = "75918347955271864857aa165692854e1d570222d23e371ccff45793fea79a49"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/minecraft/ore_redstone.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/minecraft/ore_redstone.json"
 hash = "6648748895952f2ed411885969e631cddbcdb2b96158499e064117bdbb6835a2"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mysticalagradditions/ore_end_inferium.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/mysticalagradditions/ore_end_inferium.json"
 hash = "56138d293d75b179fb6f4fc97627d7dfc6eb3739437e8ef6aac3f45933ecaca0"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mysticalagradditions/ore_end_prosperity.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/mysticalagradditions/ore_end_prosperity.json"
 hash = "7d41d46ebe29b724368c53c61582e8c7c962a5d27908bf7eb7e6565d676f3aff"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mysticalagradditions/ore_nether_inferium.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/mysticalagradditions/ore_nether_inferium.json"
 hash = "8434e8e63fa1fb0c56793381e4dc6a2dfb60b51ba33286381ef24ace900342bf"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mysticalagradditions/ore_nether_prosperity.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/mysticalagradditions/ore_nether_prosperity.json"
 hash = "b0652804ef7be2093a81222a7e9ed3f669b7c084b31fac834564605ea5be2ffd"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mysticalagriculture/ore_inferium.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/mysticalagriculture/ore_inferium.json"
 hash = "07c4a2de0a153d7ae78c4d54bb46fd542c7a5a436b7a73c8d4b6d392fa73c4e1"
 
 [[files]]
-file = "kubejs/data/nadcraft/forge/biome_modifier/nadcraft/mysticalagriculture/ore_prosperity.json"
+file = "kubejs/data/nadcraft/forge/biome_modifier/mining_dimension/mysticalagriculture/ore_prosperity.json"
 hash = "f4c5c96db4e3cf9242a50c8fc3c0183d1fcd966e3e401184820a8d5071640bd3"
 
 [[files]]
@@ -388,11 +400,6 @@ hash = "70d3ae93a9064f6885d57fc2adece2ea0f03dcc8f3077a08bb3aedf9c59630ce"
 metafile = true
 
 [[files]]
-file = "mods/betterdays.pw.toml"
-hash = "5adcea75174546bd2af5ef0bad80442ec7579d56f59fa03a6fc093add4f75c5a"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "ae215e40d0cde8796ee6a7543d641cd9c4225d5637053ebe0acc0596f38d78a4"
 metafile = true
@@ -490,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/cobweb.pw.toml"
 hash = "bc5bde51620622b9f415bcc3dfea4dca5bd17171383cf4290e1075b7352adbe0"
-metafile = true
-
-[[files]]
-file = "mods/cofh-core.pw.toml"
-hash = "20fcd633516ef654e4a1546ab7e1cd4e22bc96a087544ae583f85df9b7a65468"
 metafile = true
 
 [[files]]
@@ -623,11 +625,6 @@ hash = "42a7ffa2efa0ccf9260b887714b5da8e17cc7a9a59d02aaa8061bd5bf0ab0612"
 metafile = true
 
 [[files]]
-file = "mods/cyanide.pw.toml"
-hash = "6b1b9bf9a9c23931a3e3ed5d9f736b176a3965a85879083c7637428dbc1602f2"
-metafile = true
-
-[[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "51b232141b7f783bfc526860a10e520c9f8849fc97cb37bb7b731c187b95a05d"
 metafile = true
@@ -750,11 +747,6 @@ metafile = true
 [[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "75aa30ef36dde7927544464166076277e1990d7a5ea15309b6280440e14e5225"
-metafile = true
-
-[[files]]
-file = "mods/falling-leaves-forge.pw.toml"
-hash = "ce8c3236059c4405b9bb4b7aafb7a0016fb4a0f48c2a33e420d589d215c520aa"
 metafile = true
 
 [[files]]
@@ -930,26 +922,6 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "58fa0876dab1829a955937f3868fd6fead05fe347021758e6166e04c716c8917"
-metafile = true
-
-[[files]]
-file = "mods/integrated-crafting.pw.toml"
-hash = "cae1fc7142d79c3144ec08148011c0c6b14f8e3e8c5787b2ccc38b8f32756f62"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "84ee30e107ff98ceb7b76e064b4b5491275c8a42788d9125f50f3015ef64f84f"
-metafile = true
-
-[[files]]
-file = "mods/integrated-terminals.pw.toml"
-hash = "a79f61019fb184d371145e73ac400c7a4813fc230884257b8596a938e2bfe656"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.pw.toml"
-hash = "652a5f69cf0cb8c76fc608cb8969feacfdc1628714a2c2f8cd2d91a0ffa9de92"
 metafile = true
 
 [[files]]
@@ -1155,11 +1127,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism-explosives.pw.toml"
 hash = "d1995ea481f7cdf437fd871e2f37a8d2d09932b15fb9a3096855a387679cbd93"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-extras.pw.toml"
-hash = "e86d0c462dc771c81eaf5f3dfcb171be35772287680579b3eb5617158bbbd6c5"
 metafile = true
 
 [[files]]
@@ -1383,11 +1350,6 @@ hash = "1c2a0b908e7286eac6831ecce7c2e31c7626ee55bf2a610f0f1c72147038c989"
 metafile = true
 
 [[files]]
-file = "mods/project-vibrant-journeys.pw.toml"
-hash = "e731e77f49e54c2ed1a5118f98d6716f9f1b7bb1ebcec6decaab985614df5618"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "d92b242de1f5ba59226bbe69a6567493434874ecb63413fec62d82b43f081f4e"
 metafile = true
@@ -1583,46 +1545,6 @@ hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
-file = "mods/thermal-cultivation.pw.toml"
-hash = "a2b0b8b765b7d8ef735276c0c09488353da50671f3a62684b1046a052f3a8a15"
-metafile = true
-
-[[files]]
-file = "mods/thermal-dynamics.pw.toml"
-hash = "280fc16d8cbed28aff6aef45470a22b55cd64394f87eb6f59ce640e70fa27399"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.pw.toml"
-hash = "1603a2d57a71762925e57c61ae45649bf6aab128295a31efec214b0676c79024"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.pw.toml"
-hash = "626f0ea226f55c453930ef387b32ad090c8defdd07792fe0aefc4b5afa87cb46"
-metafile = true
-
-[[files]]
-file = "mods/thermal-innovation.pw.toml"
-hash = "d0d2d356f1a5015e354516ed99549815b3dac67307c1374cf5b87e2333afaa62"
-metafile = true
-
-[[files]]
-file = "mods/thermal-integration.pw.toml"
-hash = "ed869df5d51c4496840f3d5fb2c9d86bab6cf25f8b12eb7dda139aaa65b18d05"
-metafile = true
-
-[[files]]
-file = "mods/thermal-locomotion.pw.toml"
-hash = "0459cc802d3353342386dfe9455b99587a4dc39ca4007944d71d248517965754"
-metafile = true
-
-[[files]]
-file = "mods/thermal_extra.pw.toml"
-hash = "1f1d3c0628b31059eb59f72fc176288300460a6d962bd0ee8b8f6b7a1bb953a9"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
 metafile = true
@@ -1670,6 +1592,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "79410bb7c19d56a75b324e27d32192e1d239385f77db26140fa54f3974e6b25f"
+metafile = true
+
+[[files]]
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "ac26aae21a13356e9ad5cba79e192692606806e7f2ce4db9157334427ab15e3a"
 metafile = true
 
 [[files]]

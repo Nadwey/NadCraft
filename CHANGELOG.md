@@ -1,15 +1,21 @@
 ## 1.0.0-alpha.13
 
+- Add William Wythers' Overhauled Overworld
 - Add Chisel Reborn
 - Add Factory Blocks
 - Add Luminax
 - Add GregTech CEu: Modern
 - Add mining dimensions
 - Add Particular ✨ Reforged
-- Add Cyanide
 - Remove Iris/Oculus & GeckoLib Compat
 - Remove Structurize
 - Remove The Afterdark
+- Remove Better Days
+- Remove Mekanism Extras
+- Remove Thermal Series
+- Remove Integrated mods
+- Remove Project: Vibrant Journeys
+- Remove Oh The Biomes We've Gone
 - Do not mark mods as server-only, because packwiz doesn't export them to client-pack
 - Mark Model Gap Fix as client-only
 - Mark Connected Glass as client-only
