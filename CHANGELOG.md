@@ -1,9 +1,6 @@
-## 1.0.0-alpha.13
+## 1.0.0-alpha.14
 
 - Add William Wythers' Overhauled Overworld
-- Add Chisel Reborn
-- Add Factory Blocks
-- Add Luminax
 - Add GregTech CEu: Modern
 - Add mining dimensions
 - Add Particular ✨ Reforged
@@ -26,6 +23,12 @@
 - Mark Presence Footsteps as client-only
 - Mark Mouse Tweaks as client-only
 - Update mods
+
+## 1.0.0-alpha.13
+
+- Add Chisel Reborn
+- Add Factory Blocks
+- Add Luminax
 
 ## 1.0.0-alpha.12
 
