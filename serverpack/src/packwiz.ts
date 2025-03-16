@@ -28,7 +28,7 @@ const IGNORE_DEFAULTS = [
     "packwiz.exe",
     "packwiz", // Note: also excludes packwiz/ as a directory - you can negate this pattern if you want a directory called packwiz
 
-    "mods/",
+    "/mods/",
     "pack.toml",
     "index.toml",
 ];
