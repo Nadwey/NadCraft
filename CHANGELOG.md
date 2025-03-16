@@ -1,14 +1,15 @@
 ## 1.0.0-alpha.14
 
 - Add William Wythers' Overhauled Overworld, GregTech CEu: Modern, Particular ✨ Reforged
-- Add mining dimensions
 - Remove Iris/Oculus & GeckoLib Compat, Structurize, The Afterdark, Better Days, Mekanism Extras, Thermal Series, Integrated mods, Project: Vibrant Journeys, Falling Leaves
+- Update mods
+- Mark more mods as client-only
+- Add mining dimensions
 - Remove PneumaticCraft's oil lakes
 - Do not mark mods as server-only, because packwiz doesn't export them to client-pack
 - Disable Twilight Forest's Uncrafting
+- Make prosperity shards renewable
 - Some unifying work
-- Mark more mods as client-only
-- Update mods
 
 ## 1.0.0-alpha.13
 

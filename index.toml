@@ -265,6 +265,10 @@ file = "kubejs/server_scripts/mods/gtceu-modern/unification.js"
 hash = "f3ef731f748ce0fec05b1eb43af5af7ef9cff6fb1b10f62e31b725703f9d1090"
 
 [[files]]
+file = "kubejs/server_scripts/mods/mysticalagriculture/recipes.js"
+hash = "7623bf3999e8b684addbb88457926d6518b0ae089cae946cd41f9266cda9985d"
+
+[[files]]
 file = "kubejs/server_scripts/tag/fluid.js"
 hash = "7fcd46524c81bd33eeac08f785ba0f25801a1cf8551bc41673627e087fc85136"
 
