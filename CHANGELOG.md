@@ -1,6 +1,7 @@
 ## 1.0.0-alpha.15
 
 - Add Achievement Optimizer
+- Replace My Server Is Compatible with Better Compatibility Checker
 - Enable manual compression in GregTech
 - Fix server pack script skipping some important files
 - Disable torch breaking in From The Fog

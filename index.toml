@@ -9,6 +9,10 @@ file = "config/almostunified/unify.json"
 hash = "ac4b090ec1e306f6673cb33f8df47a47e43c42e36c0542d1d2b3bc616f3ccc2d"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "b4d04fb1927f8a7fdb76da9865d6a10aff3e41bda8c129f1430a57b1ce821d40"
+
+[[files]]
 file = "config/darkmodeeverywhere-client.toml"
 hash = "42fa5553f2409e8462548df31a71f986e5cc4f8c8ea1533ad3fde6cd75b211aa"
 
@@ -458,6 +462,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "70d3ae93a9064f6885d57fc2adece2ea0f03dcc8f3077a08bb3aedf9c59630ce"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
@@ -1263,11 +1272,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "9adb961d42928ca5f873586b6595d028dd35ff3226807d8ab41e574c68d501c7"
-metafile = true
-
-[[files]]
-file = "mods/my-server-is-compatible.pw.toml"
-hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
 
 [[files]]
