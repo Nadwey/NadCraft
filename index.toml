@@ -38,7 +38,7 @@ hash = "8e8a6518c68283eb6666273fd0ea3f62b1d3eacad3d3a58db62dc1edcac34aab"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "5b80d699077b3e65ff648c358c9e1dd8d742c3abd4a91a92313c13bbc30e1381"
+hash = "cd59d157f0531c8c431bec3924f415d585131d2d1fdf0d38fae171e6869ffa19"
 
 [[files]]
 file = "config/oculus.properties"
@@ -287,6 +287,11 @@ hash = "63dabefde18dd25b17506aafa83a1fc78319f5359fbd9936bed780ddaabe644b"
 [[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
+metafile = true
+
+[[files]]
+file = "mods/achievements-optimizer.pw.toml"
+hash = "2b55b29e563c7bdd3879e67e70816a48640071ba7927bb8294dcfaff94738677"
 metafile = true
 
 [[files]]
