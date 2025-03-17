@@ -3,6 +3,8 @@
 - Add Achievement Optimizer
 - Enable manual compression in GregTech
 - Fix server pack script skipping some important files
+- Disable torch breaking in From The Fog
+- Quest updates
 - Update mods
 
 ## 1.0.0-alpha.14

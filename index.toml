@@ -22,19 +22,19 @@ hash = "6bc18ddbe225deac31de1f0ed9648fe7055cfcfdce6cbca7fe949f1f41989d99"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "a4a107e191db4fc58b2ba47943ecc3bd32ceb3c66a9b3bb494d536caceeb63a7"
+hash = "0fe85b1d25eba7032cdbf229db8be2b3a433e7676cb555e7e9b0f8e0d825b1c3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mekanism.snbt"
-hash = "8ce57910a4e6646f8bce3e40c461993a9fcd18cc283dace25da3c488da22694a"
+hash = "e3dc43eda7e06474eea7e068d77954605746dcfce8ef1777fcf508176fb3a5ec"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/xycraft.snbt"
-hash = "0ed77c878c50094fb24fdcc499ad48e18ed054e82f0cb28251d4ac06f001399c"
+hash = "ca7a84b106f5884db6a9051870627ee3dbf281360edba150c307c8ddd5457597"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
-hash = "8e8a6518c68283eb6666273fd0ea3f62b1d3eacad3d3a58db62dc1edcac34aab"
+hash = "0a9ec73451fc278fed422c17728ca38f43e70e9ab3962eb70da170694043efa6"
 
 [[files]]
 file = "config/gtceu.yaml"
@@ -247,6 +247,10 @@ hash = "cba96a0aaa87a7657c17f8f22e8cc8a853309b2f9f62ef66abdc88d42f4679cb"
 [[files]]
 file = "kubejs/data/pneumaticcraft/forge/biome_modifier/oil_lake_underground.json"
 hash = "a1e1f2b0cb2e61e38e1daac97a30e021d3955a7b863782862c03ef8cef07c4ab"
+
+[[files]]
+file = "kubejs/data/watching/functions/config/autoconfig/disable.mcfunction"
+hash = "a929f4b7e09d56022eeb68a9726caeb9440fbf811b356dc0714cb733d0793f54"
 
 [[files]]
 file = "kubejs/server_scripts/mining-teleport.js"

@@ -35,14 +35,58 @@
 		}
 		{
 			dependencies: ["7592962382D7A856"]
+			description: [
+				"Not really powerful, but great for the early game since it needs hardly any resources."
+				""
+				"One Lava Bucket and you can start generating energy."
+			]
+			icon: "mekanismgenerators:heat_generator"
 			id: "2CCAD9E7CDD5CD1E"
 			subtitle: "Unlimited Power! (restrictions apply)"
+			tasks: [
+				{
+					id: "709CCF4452D6BF21"
+					item: "mekanismgenerators:heat_generator"
+					type: "item"
+				}
+				{
+					id: "161E239F33D13CDB"
+					item: "minecraft:lava_bucket"
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2CCAD9E7CDD5CD1E"]
+			description: [
+				"Make &acircuits&r, &calloys&r, &8steel&r, and even &6dirt&r, all with this funny machine."
+				""
+				"You'll be using it quite a lot in your playthrough, so I recommend upgrading it."
+				""
+				"&lNoob Tip&r: The Enrichment Chamber helps you save resources."
+			]
+			id: "77AC3F8A90899545"
+			subtitle: "Your new best friend in Mekanism"
 			tasks: [{
-				id: "709CCF4452D6BF21"
-				item: "mekanismgenerators:heat_generator"
+				id: "3E6A9AC0DEC174FB"
+				item: "mekanism:metallurgic_infuser"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["77AC3F8A90899545"]
+			id: "2CD95E2B0CB8A633"
+			tasks: [{
+				id: "37EAC3CA162B6ABD"
+				item: "mekanism:basic_control_circuit"
+				type: "item"
+			}]
+			x: 6.0d
 			y: 0.0d
 		}
 	]
