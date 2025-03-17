@@ -1,3 +1,10 @@
+## 1.0.0-alpha.15
+
+- Add Achievement Optimizer
+- Enable manual compression in GregTech
+- Fix server pack script skipping some important files
+- Update mods
+
 ## 1.0.0-alpha.14
 
 - Add William Wythers' Overhauled Overworld, GregTech CEu: Modern, Particular ✨ Reforged
