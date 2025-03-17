@@ -9,6 +9,10 @@ file = "config/almostunified/unify.json"
 hash = "ac4b090ec1e306f6673cb33f8df47a47e43c42e36c0542d1d2b3bc616f3ccc2d"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "42fa5553f2409e8462548df31a71f986e5cc4f8c8ea1533ad3fde6cd75b211aa"
+
+[[files]]
 file = "config/darkness.properties"
 hash = "d3a3ce0a005e6abfb26cbfd912c2524194536b9e52fe2fa0bcf385990fb62d57"
 

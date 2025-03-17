@@ -4,6 +4,7 @@
 - Enable manual compression in GregTech
 - Fix server pack script skipping some important files
 - Disable torch breaking in From The Fog
+- Change the position of the dark mode button in the inventory, so it doesn't get overlapped by the emi buttons
 - Quest updates
 - Update mods
 
