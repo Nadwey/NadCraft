@@ -81,6 +81,10 @@ file = "kubejs/assets/kubejs/textures/block/mining_teleport.png"
 hash = "7b7c1814cea36a90f4fe25e1847fc6cb06a8a15e1577588259e59cc314e06a2d"
 
 [[files]]
+file = "kubejs/client_scripts/conflicts.js"
+hash = "5b9a126b484b54258c43e843108bca23b7b1c44ddd2666123a8e9fb25c4aa452"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "6cb8609404d0b9685314b1841735d466e96502e4e18f11cc3375f6e46f69415e"
 
@@ -255,6 +259,10 @@ hash = "a1e1f2b0cb2e61e38e1daac97a30e021d3955a7b863782862c03ef8cef07c4ab"
 [[files]]
 file = "kubejs/data/watching/functions/config/autoconfig/disable.mcfunction"
 hash = "a929f4b7e09d56022eeb68a9726caeb9440fbf811b356dc0714cb733d0793f54"
+
+[[files]]
+file = "kubejs/server_scripts/conflicts.js"
+hash = "7566ad85a15a6ac1478631587c52d22f9c0c1de567bd56a77f8e3abeb9cf4524"
 
 [[files]]
 file = "kubejs/server_scripts/mining-teleport.js"

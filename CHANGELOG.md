@@ -5,6 +5,7 @@
 - Fix server pack script skipping some important files
 - Disable torch breaking in From The Fog
 - Change the position of the dark mode button in the inventory, so it doesn't get overlapped by the emi buttons
+- Remove duplicate coarse dirt slab
 - Quest updates
 - Update mods
 
