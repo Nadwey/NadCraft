@@ -510,11 +510,6 @@ hash = "20ecc68b8ce61968b3e66e9a90120a640405dc13028d184e674d6f13af64b1f1"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller-reimagined.pw.toml"
-hash = "8b38c7c647bcfd170764ef08603578451839edd2318726b951aa592eda299ca7"
-metafile = true
-
-[[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
 metafile = true

@@ -1,3 +1,7 @@
+## 1.0.0-alpha.16
+
+- Remove Cave Dweller Reimagined
+
 ## 1.0.0-alpha.15
 
 - Add Achievement Optimizer
