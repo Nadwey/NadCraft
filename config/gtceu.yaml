@@ -211,7 +211,7 @@ machines:
 
   # Whether to enable the Maintenance Hatch, required for Multiblocks.
   # Default: true
-  enableMaintenance: true
+  enableMaintenance: false
 
   # Whether to enable World Accelerators, which accelerate ticks for surrounding Tile Entities, Crops, etc.
   # Default: true

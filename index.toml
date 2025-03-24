@@ -46,7 +46,7 @@ hash = "0a9ec73451fc278fed422c17728ca38f43e70e9ab3962eb70da170694043efa6"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "cd59d157f0531c8c431bec3924f415d585131d2d1fdf0d38fae171e6869ffa19"
+hash = "e77a5f2c55ca6974bdee0d3932de78d0a3071804e72248884687150c11c992d2"
 
 [[files]]
 file = "config/oculus.properties"
