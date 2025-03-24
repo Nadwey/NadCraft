@@ -1,6 +1,8 @@
 ## 1.0.0-alpha.16
 
 - Remove Cave Dweller Reimagined
+- Disable GTCEu Modern's maintenance
+- Update mods
 
 ## 1.0.0-alpha.15
 
