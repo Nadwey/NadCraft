@@ -10,7 +10,7 @@ hash = "ac4b090ec1e306f6673cb33f8df47a47e43c42e36c0542d1d2b3bc616f3ccc2d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "86fdff44f4882af95c96dc50d81c49943594e23d55f5711e78a2522886950ad4"
+hash = "08db8b483d99633b3754dbcd2815216f15c35ff6c84c801b73ef63f270bb75a7"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
@@ -46,7 +46,7 @@ hash = "0a9ec73451fc278fed422c17728ca38f43e70e9ab3962eb70da170694043efa6"
 
 [[files]]
 file = "config/gtceu.yaml"
-hash = "e77a5f2c55ca6974bdee0d3932de78d0a3071804e72248884687150c11c992d2"
+hash = "7d03363f04668c28059dd6545e12a9570f278a0aea47453ecd929093cda24d14"
 
 [[files]]
 file = "config/oculus.properties"
