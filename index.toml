@@ -10,7 +10,7 @@ hash = "ac4b090ec1e306f6673cb33f8df47a47e43c42e36c0542d1d2b3bc616f3ccc2d"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a48f676c2deccbe2fa0cfed4281a4d7eb0acb54b22f997a387c1df8325cf95fd"
+hash = "86fdff44f4882af95c96dc50d81c49943594e23d55f5711e78a2522886950ad4"
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
@@ -50,7 +50,7 @@ hash = "e77a5f2c55ca6974bdee0d3932de78d0a3071804e72248884687150c11c992d2"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "3821d5809965f7ff6b8be6ba102035ed976e796e59f5b6953c8c3dbd91da1587"
+hash = "865b778203b06426537568b7a7a2a1b6969b3df0c3005987f436a21f4bd47286"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -259,10 +259,6 @@ hash = "cba96a0aaa87a7657c17f8f22e8cc8a853309b2f9f62ef66abdc88d42f4679cb"
 [[files]]
 file = "kubejs/data/pneumaticcraft/forge/biome_modifier/oil_lake_underground.json"
 hash = "a1e1f2b0cb2e61e38e1daac97a30e021d3955a7b863782862c03ef8cef07c4ab"
-
-[[files]]
-file = "kubejs/data/watching/functions/config/autoconfig/disable.mcfunction"
-hash = "a929f4b7e09d56022eeb68a9726caeb9440fbf811b356dc0714cb733d0793f54"
 
 [[files]]
 file = "kubejs/server_scripts/conflicts.js"
@@ -885,11 +881,6 @@ hash = "90b1dbb488e42623788abdaa6afe9808aa811a57fac8f76f3153092e06152836"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -987,6 +978,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "58fa0876dab1829a955937f3868fd6fead05fe347021758e6166e04c716c8917"
+metafile = true
+
+[[files]]
+file = "mods/industrial-renewal.pw.toml"
+hash = "90c2d835c6040ddf44db435d19ea4a903592c1ce4f1610f6c5f8c847eb56f73e"
 metafile = true
 
 [[files]]
@@ -1205,8 +1201,18 @@ hash = "30b016d6a30bc7122b355a8f4e626b5c6f1415045d88e56d79c0cdda3650c809"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-science.pw.toml"
+hash = "6a55c43bb6f977fbf65e7883dbfe6322ce5379238d283dc5c91e464935a24927"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "068f9b5a1060973fb9f92beb1db1085171d48d0b6aff35686926643c7fd36f44"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-weaponry.pw.toml"
+hash = "5f7a49921e4aa4c101c68941fe7007c0e3625ce39a4c8b0b265935aea9a3d702"
 metafile = true
 
 [[files]]

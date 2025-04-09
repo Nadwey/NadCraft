@@ -1,3 +1,9 @@
+## 1.0.0-alpha.17
+
+- Add Industrial Renewal, Mekanism Science, Mekanism Weaponry
+- Remove From The Fog
+- Disable shaders by default
+
 ## 1.0.0-alpha.16
 
 - Remove Cave Dweller Reimagined

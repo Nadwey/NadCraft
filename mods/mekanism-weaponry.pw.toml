@@ -1,0 +1,13 @@
+name = "Mekanism Weaponry"
+filename = "mekanism_weaponry-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b33c0cbb4a18c03a6e0e272022b8fbdb8f8b42f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6401440
+project-id = 1127676
