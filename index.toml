@@ -1201,11 +1201,6 @@ hash = "30b016d6a30bc7122b355a8f4e626b5c6f1415045d88e56d79c0cdda3650c809"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-science.pw.toml"
-hash = "6a55c43bb6f977fbf65e7883dbfe6322ce5379238d283dc5c91e464935a24927"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "068f9b5a1060973fb9f92beb1db1085171d48d0b6aff35686926643c7fd36f44"
 metafile = true
