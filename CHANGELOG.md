@@ -3,6 +3,7 @@
 - Add Industrial Renewal, Mekanism Science, Mekanism Weaponry
 - Remove From The Fog
 - Disable shaders by default
+- Update mods
 
 ## 1.0.0-alpha.16
 
