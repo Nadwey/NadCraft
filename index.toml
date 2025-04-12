@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "1d638b73975c4a18e6cea859595f6b9f11e4b9217a29bb76b7fdfb099ecc1e2e"
+hash = "77cc97055c62c20185c31781c0be40db248dc04a728085bec7cfea37d018df16"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "a431f569678d9dc9af3a983bc8e65eca0a24c9b67fefd5ac9ef22640ec05cda1"
+hash = "68960354be9294d5761b636b94e4f54715119602e83c4dd107698021dbeca16b"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
-hash = "89ae4f4628c3ff956f51277d56bdeed5394648d671e57931c7eeca0e47960abb"
+hash = "9f9d2f8a99a2599ab346e2b3d2a6a70ffa5b1a41dd36f59bad5f14ee96f0e6fd"
 metafile = true
 
 [[files]]
@@ -1532,17 +1532,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ce5b7461610475ccbce6b9fd16c1aac18e272539947492d47047f7076327ddfa"
+hash = "1e09564045d3ba4a1306793b4a910f2555c06eff1d043224bbf6118e1408d81d"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4d10afb9f6e717c0125f86599d1d402ab88b41e5988a34b56971138e05ec5d97"
+hash = "cd02395c8f038a10032deef65110b2fc598c048e7091b19c70784792ddf03f8a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "e92a4622c799664b6767e5887a5724d48d847d0487e304b30b702056d2446bbb"
+hash = "3289769caddd7b2d154ffd5e8c6835fd82738797731242cabc097be59b80013c"
 metafile = true
 
 [[files]]
@@ -1582,7 +1582,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e7cacbfc09f20dd5da90496d3667a5d936e6eb7894c398ff8f766ace81c563c1"
+hash = "45a53404a7460d30dbf6d7689d267059106243423edb75844946e1d56f4dcc0e"
 metafile = true
 
 [[files]]
@@ -1642,7 +1642,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
-hash = "f60fb67508b3657059cf0d510dda03d62867a6c91c5a964b8608358e3208bf7b"
+hash = "ec147aaa673c28c8ac1e0134dcdcce21edf1ecb3fdabb987625192b54e11f36e"
 metafile = true
 
 [[files]]
