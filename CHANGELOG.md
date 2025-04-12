@@ -1,3 +1,9 @@
+## 1.0.0-alpha.18
+
+- Add Immersive Paintings
+- Disable GregTech's material hazards
+- Remove Mekanism Science
+
 ## 1.0.0-alpha.17
 
 - Add Industrial Renewal, Mekanism Science, Mekanism Weaponry

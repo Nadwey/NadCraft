@@ -4,3 +4,4 @@
 - Quests
 - Make The Twilight Forest more interesting
 - Support other treated planks in GTCEu Modern's recipes
+- Make some Alex's Caves recipes available normally
