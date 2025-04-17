@@ -1,12 +1,12 @@
 name = "NadCraft"
 author = "Nadwey"
-version = "1.0.0-alpha.18"
+version = "1.0.0-alpha.19"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7701736a1cdd7a793cf0911d8c5471c868854765cde2529e71d39f34040cdbe5"
+hash = "166b8de77309b1359e2f126b3826416fec406cb349ac91a78eaf83998e48f41c"
 
 [versions]
 forge = "47.4.0"
