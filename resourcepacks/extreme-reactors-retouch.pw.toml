@@ -1,0 +1,13 @@
+name = "Extreme Reactors Retouch"
+filename = "Extreme Reactors Retouch 0.8.5.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "5454b1855ddcaf7f507c2855214993a7f1f2a454"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6226306
+project-id = 1205930

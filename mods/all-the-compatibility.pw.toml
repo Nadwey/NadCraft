@@ -1,13 +1,13 @@
 name = "All The Compatibility"
-filename = "AlltheCompatibility-1.20.x-(v.2.2.0).jar"
+filename = "AllTheCompatibility-1.20.x-(v.2.3.1).jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "58a7539e5fb309bf9e133ed0333d7ecde3d1176c"
+hash = "3f2f5ef1ba010dcea4f56f2737cb0afc10b96147"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6066154
+file-id = 6427002
 project-id = 560350

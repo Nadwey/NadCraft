@@ -26,7 +26,7 @@ hash = "4b74649819a3c4308689060a5cdf64805584a9a61c969658f5ea96d52bb27b80"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "6bc18ddbe225deac31de1f0ed9648fe7055cfcfdce6cbca7fe949f1f41989d99"
+hash = "0ef058cc43b5de033566e454c07cd42165ada2a0d887ad0a7c68922894a6b08e"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -269,6 +269,10 @@ file = "kubejs/server_scripts/mining-teleport.js"
 hash = "ab88ddaa0d0b2e0428839969b378e533314f0dfd5b5f82b1b8cc5115dd632f7b"
 
 [[files]]
+file = "kubejs/server_scripts/mods/alexscaves/sirens.js"
+hash = "d8eb8fff23605d25a4f26f5253d2c1dacf1f6ef049167005d411ecc46e22e714"
+
+[[files]]
 file = "kubejs/server_scripts/mods/click-machine/recipes.js"
 hash = "14b0b54ce9b083241458104b925de6dbb63bf2c8eef79476d336816db8dbfe0b"
 
@@ -278,7 +282,7 @@ hash = "49c8f219889141e90e9483729aa5ac9d39aed311f8bc8fd427e9c1694f37ac1b"
 
 [[files]]
 file = "kubejs/server_scripts/mods/gtceu-modern/unification.js"
-hash = "f3ef731f748ce0fec05b1eb43af5af7ef9cff6fb1b10f62e31b725703f9d1090"
+hash = "190618cde4bb2bac6335c9eae1f1cc7633b894464271d0f4e0074b91cf573b09"
 
 [[files]]
 file = "kubejs/server_scripts/mods/mysticalagriculture/recipes.js"
@@ -357,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/all-the-compatibility.pw.toml"
-hash = "29b03717521169081e1c0d9e4c53c66937d081a56bbdf0b30c4461ced7b901f9"
+hash = "068b67d1cef093b78e4a86d64ffc785c1eaed7b74fde05ffdae364cbfd36444c"
 metafile = true
 
 [[files]]
@@ -517,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "68d1e3bd2c954c44e924f7b674222f387f6419969ccc469e0a891af98b2eaf39"
+hash = "a4d05f5e9e543dab7223b069ae58f9b11fedd1f7dbeedea8c9036584bc0bcbf6"
 metafile = true
 
 [[files]]
@@ -682,12 +686,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "68960354be9294d5761b636b94e4f54715119602e83c4dd107698021dbeca16b"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "9c6532afb0c8d369a6a0134f23ba29a37e70af633f8323d9af4345cffdb09ffc"
+hash = "de937c84384b9e99dc858f1e68f1a34789e357e111dd74cf8d8ff87df2d0dc6f"
 metafile = true
 
 [[files]]
@@ -747,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b0255e234468055440b05f2160e41f8cd75f61f91942f9d91549654f98899911"
+hash = "d48a1ea93de8cd5febb95ba52989d8d9ab4e998cfbdf9c1076a9f2e571d2fcbe"
 metafile = true
 
 [[files]]
@@ -892,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "3cac9f3d4dc792068b030c9f260eee8cef70f307d98daa7e6814e0e4375de6e8"
+hash = "2ec083ed1872a8886a63c8f112958fdda1cf802d01c90400272e0d95a82c976d"
 metafile = true
 
 [[files]]
@@ -917,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "8e18fb0b6adc53f18fb39c43149fd6ef48f13af3af23b4c580a2cb05517ecd1d"
+hash = "cf635b2a1526d2586b84746863c9fe89de9e070863f17e60e6b3dd0a32b27873"
 metafile = true
 
 [[files]]
@@ -1092,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "cd83db35b6b89863701cd587bd0f215cbb4e2b6282f0868ffb8e7445c00639d2"
+hash = "49757c03e4ee7c1f3fc4ff9aa0d4f9065139d045b6eb1eb7f83a311ca155a821"
 metafile = true
 
 [[files]]
@@ -1357,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "fea09dbeb1a6aa91fe544b81bca287e696e01e4f49e53800ef46da93dc337f5c"
+hash = "a5ae41acb4798c6d8ffd16c8c537e452dd5a17efa6734214f6d8044c3ba52214"
 metafile = true
 
 [[files]]
@@ -1422,7 +1426,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2f3081029fe8b579d4a60d2191613ed17cb4bff3390280c56817cb8149422aef"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
 
 [[files]]
@@ -1497,7 +1501,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "74605dbc168a001511741a85318364fc67d83f975528d279005304a182d87762"
+hash = "e7d596f25bd16e1cd85b34896f69c8801312de601f5af48cb412a2be505f09fb"
 metafile = true
 
 [[files]]
@@ -1532,17 +1536,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "1e09564045d3ba4a1306793b4a910f2555c06eff1d043224bbf6118e1408d81d"
+hash = "b3d5e86532853ee461355f36acbeb1452f67580104a7fda608c99ebfff653bde"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "cd02395c8f038a10032deef65110b2fc598c048e7091b19c70784792ddf03f8a"
+hash = "b5023fb8ff2fee37fee75ad44912888c176ef99c8b0039af41db43ecceeeac6e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3289769caddd7b2d154ffd5e8c6835fd82738797731242cabc097be59b80013c"
+hash = "c18734b90bb9197d5ba832eaa1aa023f97bbaf266b1fe0fb18eebc0e9b2f5b99"
 metafile = true
 
 [[files]]
@@ -1642,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
-hash = "ec147aaa673c28c8ac1e0134dcdcce21edf1ecb3fdabb987625192b54e11f36e"
+hash = "a75eabbb154c0625ca390a30f0130b271b4978ab11a6e5b520e16e0b974791b9"
 metafile = true
 
 [[files]]
@@ -1767,7 +1771,12 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "98a5f14605e51677639c024541e9453a95911cbc21edfe94057b0ac4a8073ddd"
+hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/extreme-reactors-retouch.pw.toml"
+hash = "7bd8f51841a36e5c9dddec7f01f251cf1fd82888b8a6cb14c780a9cc94534a1a"
 metafile = true
 
 [[files]]

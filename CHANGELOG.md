@@ -1,3 +1,10 @@
+## 1.0.0-alpha.19
+
+- Add Extreme Reactors Retouch
+- Make Alex's Caves' Nuclear Siren and Siren Light craftable without going to Toxic Caves
+- Support Immersive Engineering Treated Planks in GTCEU's recipes
+- Update mods
+
 ## 1.0.0-alpha.18
 
 - Add Immersive Paintings
